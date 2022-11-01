@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "../repasoBootcamp"
+		},
+		{
+			"path": "../JorgeJaramillo"
+		},
+		{
+			"path": "../Workspace/js-repaso"
+		},
+		{
+			"path": "../Workspace/cursoReact/mi-app"
+		},
+		{
+			"path": "../../../../var/www/public_html/farhan/wordpress/wp-content/themes/jorge-theme"
+		},
+		{
+			"path": "../../Downloads/university-static-master"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Procesamiendo Digital de Imagenes"
+		}
+	],
+	"settings": {
+		"workbench.settings.editor": "json",
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "JorgeJaramillo"
+	}
+}
